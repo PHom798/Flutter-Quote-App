@@ -17,7 +17,7 @@ This app displays **random quotes**, allowing users to generate a new inspiratio
 
 <div align="center">
   
-  ![Digital Clock](screenshots/quiz.jpeg)
+  ![Digital Clock](screenshots/quote.jpeg)
     
 </div>
 
